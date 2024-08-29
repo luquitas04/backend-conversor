@@ -1,0 +1,21 @@
+{
+  "name": "conver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "googleapis": "^143.0.0",
+    "nodemon": "^3.1.4",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
